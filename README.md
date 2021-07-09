@@ -14,3 +14,6 @@ It takes the total gross domestic product (GDP) of a county and divides it by th
 * Per capita income is obtained from U.S. [Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=6)
 * Geographical data sourced from [Natural Earth](https://www.naturalearthdata.com/downloads/).
 * QGIS 3.16 is used to create the map.
+
+
+# [The Project Page](https://erdalerol.github.io/US-Per-Capita-Income-by-County-in-2019/)
