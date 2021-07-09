@@ -16,4 +16,4 @@ It takes the total gross domestic product (GDP) of a county and divides it by th
 * QGIS 3.16 is used to create the map.
 
 
-# [The Project Page](https://erdalerol.github.io/US-Per-Capita-Income-by-County-in-2019/)
+## [The Project Page](https://erdalerol.github.io/US-Per-Capita-Income-by-County-in-2019/)
